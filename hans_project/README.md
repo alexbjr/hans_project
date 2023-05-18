@@ -20,18 +20,23 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 >
 > O esquema de tratamento da terapia multidrogas (número de doses e o tempo) depende da classificação operacional da doença, com base no número de lesões na pele. Os casos são classificados como paucibacilares ou multibacilares, com uma duração de tratamento 6 a 12 meses, respetivamente. A pesar dos avanços no tratamento, o abandono da terapia multidrogas ainda representa um obstáculo importante para o controle efetivo e a eliminação da hanseníase. Por exemplo, os casos de abandono podem resultar em curas imcompletas, levando a uma maior evolução da doença, o que pode prolongar o tempo de tratamento e aumentar os costos para o sistema de saúde, além de manter fontes persistentes de infecção na área geográfica. 
 > 
-> Evidências sugerem que existem determinantes associados ao abandono do tratamento da haneníase. Essa interrupção por parte dos pacientes pode ser influenciada tanto por características pessoais, socioeconômicas, quanto por fatores médicos. Nesse contexto, este projeto tem como objetivo analisar uma grande base de dados sobre casos de hanseníase com o objetivo de estimar por uma parte o tempo de cura dos pacientes. Para isso, serão utilizadas técnicas de machine learning para identificar as variáveis mais relevantes para o resultado, bem como a relação entre elas e o tempo de cura. E investigar la associacao de variables clínicas com os casos de abandono.
+> Evidências sugerem que existem determinantes associados ao abandono do tratamento da haneníase. Essa interrupção por parte dos pacientes pode ser influenciada tanto por características pessoais, socioeconômicas, quanto por fatores médicos. Nesse contexto, este projeto tem como objetivo analisar os casos novos de hanseníase durante o período de 2009 a 2002 com o fim de determinar padrões ou relações entre as características dos pacientes e da doença com os casos de cura e abandono do tratamento, asi como identificar diferentes padrões espaciais de ocorrência e abandono com áreas de maior vulnerabilidade. Para isso, serão utilizadas técnicas de machine learning para identificar as variáveis mais relevantes para o resultado, bem como a relação entre elas e o tempo de cura. 
 >
-> Espera-se que os resultados deste projeto possam ajudar na otimização do tratamento da hanseníase, permitindo a alocação de recursos adequados para cada paciente e melhorando o planejamento financeiro dos sistemas de saúde. Além disso, a análise desses dados pode fornecer percepções importantes sobre a doença e ajudar na prevenção e controle da hanseníase em nível nacional.
+> Espera-se que os resultados deste projeto possam ajudar a identificar fatores que represemtem barreras no tratamento de hanseníase e ajudem na otimização do tratamento da hanseníase, permitindo a alocação de recursos adequados a regiões de maior risco. Além disso, a análise desses dados pode fornecer percepções importantes sobre a doença e ajudar na prevenção e controle da hanseníase em nível nacional.
 > 
 > [Vídeo de apresentação](https://drive.google.com/file/d/1LdYcPP0i0cjiHvt-HNTh64a2jiKPNRNR/view?usp=sharing)
 
 # Perguntas de Pesquisa
 > Quais variáveis clínicas e epidemiológicas estão associadas ao tempo de cura dos pacientes com hanseníase?
+> 
 > Quais são variáveis preditoras do tipo de saída por abandono?
+> 
 > Quais são as variáveis preditoras associadas ao grau de incapacidades física?
+> 
 > Espacialmente existe uma relação entre o índice de desenvolvimento com a incidência, o número de abandonos e a gravidade da doença?
+> 
 > Como as percepções obtidas a partir da análise de dados podem ser utilizadas para melhorar o planejamento financeiro dos sistemas de saúde em relação ao tratamento da hanseníase?*
+> 
 > Qual é o desempenho dos modelos de machine learning na previsão do tempo de cura dos pacientes com hanseníase?
 
 # Bases de Dados
